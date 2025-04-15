@@ -72,3 +72,20 @@ img {
   background-color: #666666;
   transition: all 0.4s;
 }
+
+@media (max-width: 800px) {
+  form {
+      width: 300px;
+      padding: 30px 20px;
+      height: auto;
+  }
+
+  img {
+      width: 100px;
+  }
+
+  .tag_a3123 {
+      width: 90%;
+      padding: 10px;
+  }
+}
