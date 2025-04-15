@@ -8,8 +8,8 @@ function App(){
       <h3>Brazil, Rio de Janeiro</h3>
       <p>Fullstack Developer</p>
       <span>3 Anos de Experiência</span>
-      <a class="tag_a312312" href="https://github.com/Falego23">Github</a>
-      <a class="tag_a312312" href="https://open.spotify.com/playlist/5hE1wjcQ8Y0zaM5PaR8kTV">Spotify</a>
+      <a className="tag_a312312" href="https://github.com/Falego23">Github</a>
+      <a className="tag_a312312" href="https://open.spotify.com/playlist/5hE1wjcQ8Y0zaM5PaR8kTV">Spotify</a>
       </form>
       </div>
   );
